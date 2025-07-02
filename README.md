@@ -1,9 +1,8 @@
-# Master's Thesis
-# Predicting and imputing river flow using functional regression models: a spatial-temporal approach with OASI data
+# Master's Thesis: Functional Regression and Forecasting of River Flow
 
 This repository contains the materials and code for my Master's thesis:
 
-**Functional Regression and Forecasting of River Flow in Environmental Time Series in Ticino: A Spatial-Temporal Approach with OASI Data**
+**Predicting and imputing river flow using functional regression models: a spatial-temporal approach with OASI data**
 
 ---
 
