@@ -11,15 +11,13 @@ This repository contains the materials and code for my Master's thesis:
 
 The repository is organized into folders corresponding to the chapters of the thesis:
 
-- **Chapter 2** – Data exploration and preprocessing
-- **Chapter 3** – Baseline modeling approaches
+- **Chapter 2** – Baseline modeling approaches
+- **Chapter 3** – Visualization of spatio temporal data
 - **Chapter 4** – Functional regression methodology
 - **Chapter 5** – Evaluation and forecasting results
 - **App** – Shiny application for visualization and prediction
 
-Each folder contains:
-- R scripts used for data analysis and modeling
-- Supporting files such as figures, outputs, and documentation
+Each folder contains R scripts used for data analysis and modeling.
 
 ---
 
